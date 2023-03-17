@@ -12,3 +12,6 @@ TECHNOLOGIES USED
 1.Excel
 2.MySQL
 3.Tableau
+
+
+[Dashboard 1.pdf](https://github.com/kumarvishva/Sales-Analysis/files/11001227/Dashboard.1.pdf)
