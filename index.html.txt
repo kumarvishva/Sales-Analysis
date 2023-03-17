@@ -11,7 +11,7 @@
 
 <body>
 
-  <h1>Retail Sales</h1>
+  <h1>Sales Insight</h1>
 
     <button id = "exportPDF">Generate PDF</button>
     <button id = "exportImage">Generate Image</button>
